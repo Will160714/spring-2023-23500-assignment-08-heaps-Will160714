@@ -37,6 +37,6 @@ The second video under resources talks through a cool algorithm using
 heaps. It isn't needed for the assignment but I strongly recommend you
 view it when you get a chance.
 
-*Comments:
+* Comments:
    References: https://www.youtube.com/watch?v=HqPJF2L5h9U&ab_channel=AbdulBari
                https://builtin.com/software-engineering-perspectives/heapify-heap-tree-cpp
