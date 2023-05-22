@@ -11,4 +11,4 @@ tests.o: tests.cpp heaps.h
 heaps.o: heaps.cpp heaps.h 
 
 clean:
-	rm -f main.o Node.o tests.o heaps.o
+	rm -f main.o tests.o heaps.o
